@@ -16,7 +16,7 @@ I leave here a set of examples about optimal good tutorials in videogames:
 
 ##The Legend Of Zelda: Breath Of The Wild
 
-<a href="https://www.youtube.com/watch?v=Ou6UsEf1J_o&t=271s&ab_channel=EncryptedDuck" 
+<a href="https://www.youtube.com/watch?v=Ou6UsEf1J_o&t=271s&ab_channel=EncryptedDuck"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vidaextra.com%2Fanalisis%2Fanalisis-de-the-legend-of-zelda-breath-of-the-wild-la-nueva-obra-maestra-de-nintendo&psig=AOvVaw354dxbU3wYOhe_lY411hrM&ust=1677884851729000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCFhaeuvv0CFQAAAAAdAAAAABAE" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 - Exaggeration of the old TLOZ turotials, where we used to start on a small village before being thrown to the bast world of Hyrule. This tutorial consists on retaining the player in a smaller portion of the map but at the same time containing the major number of game mechanics the game has to offer.
