@@ -58,3 +58,18 @@ In summary, this are the steps to follow for a proper creation of a videogame tu
 
 
 ![Captura de pantalla 2023-03-03 004539](https://user-images.githubusercontent.com/66822380/222591649-8c7e63cc-b676-496d-a08b-5f7bf3e5760c.png)
+
+
+
+
+
+
+## Information and links!
+
+https://www.youtube.com/watch?v=besh0utQaAk&ab_channel=LaCavernadelGamer
+https://www.youtube.com/watch?v=eEGO4KAUuPg&ab_channel=ElultimoHyliano
+https://www.youtube.com/watch?v=FzM6piSc7kw&ab_channel=LaCavernadelGamer
+https://www.cultture.com/los-10-mejores-niveles-de-tutoriales-de-videojuegos
+https://www.3djuegos.com/pc/noticias/que-debe-tener-un-buen-tutorial-en-videojuegos-para-ser-util-y-no-resultar-molesto-201205-2163
+
+Presentation Doc: https://docs.google.com/presentation/d/1ubbX6K8vMZIP24o-Y2oaROo7j5YQXfIstoB4eYDQofc/edit?usp=share_link
