@@ -36,3 +36,11 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 - This game is close to perfection as far as teaching is concerned. It doesn't even have a former tutorial, Super Mario Bros has such an intuitive gameplay that it doesn't need to explain the player how to move Mario.
+
+
+## Bayonetta
+
+<a href="https://www.youtube.com/watch?v=jH9oZwHTUJE&t=11s&ab_channel=Shirrako"><img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Bayonetta1_image1600w.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
+
+- Quick 20 second cinematic introduction followed by an iconic Hack'n'Slash level, just you smashing buttons and quickly learning all the basics about defeating hordes of enemies.
