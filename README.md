@@ -14,7 +14,7 @@ With this acknowledged, we can start to think about proper applications for vide
 
 I leave here a set of examples about optimal good tutorials in videogames:
 
-##The Legend Of Zelda: Breath Of The Wild
+## The Legend Of Zelda: Breath Of The Wild
 
 <a href="https://www.youtube.com/watch?v=Ou6UsEf1J_o&t=271s&ab_channel=EncryptedDuck"><img src="https://i.blogs.es/15da49/zelda00/1366_2000.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
