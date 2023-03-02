@@ -52,3 +52,5 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 - Similar to Super Mario's way of teaching, in a more complex way, DOOM Eternal has a set of complex mechanics that have to be properly explained but apart from that, the player is involved in a costant tutorial and test of skill in order to survive. The way this game is concieved is to constantly move position at the same time the player shoots hordes of demons.
+
+
