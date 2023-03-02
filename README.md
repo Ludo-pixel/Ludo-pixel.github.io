@@ -28,3 +28,11 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 - In a less fast paced game, Undertale excells in teaching players how to play the game without even noticing about being in a tutorial. Great convination between narrative integration and knowledge.
+
+
+## Super Mario Bros
+
+<a href="https://www.youtube.com/watch?v=K5yqXTh1IUw&t=1s&ab_channel=RetroGame.Stream"><img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros_image1600w.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
+
+- This game is close to perfection as far as teaching is concerned. It doesn't even have a former tutorial, Super Mario Bros has such an intuitive gameplay that it doesn't need to explain the player how to move Mario.
