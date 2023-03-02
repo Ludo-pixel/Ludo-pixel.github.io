@@ -56,4 +56,5 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 In summary, this are the steps to follow for a proper creation of a videogame tutorial:
 
-![58e1467a10b1887602c9c5df49fb26cb](https://user-images.githubusercontent.com/66822380/222591362-03e1fde9-648f-437b-9bd8-a95d62f51889.png)
+
+![Captura de pantalla 2023-03-03 004539](https://user-images.githubusercontent.com/66822380/222591649-8c7e63cc-b676-496d-a08b-5f7bf3e5760c.png)
