@@ -27,3 +27,4 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=zgcaD4-dlM0&t=1s&ab_channel=GuilhermeBedin"><img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Undertale_image1600w.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
+- In a less fast paced game, Undertale excells in teaching players how to play the game without even noticing about being in a tutorial. Great convination between narrative integration and knowledge.
