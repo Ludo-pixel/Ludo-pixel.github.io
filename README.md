@@ -54,3 +54,6 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 - Similar to Super Mario's way of teaching, in a more complex way, DOOM Eternal has a set of complex mechanics that have to be properly explained but apart from that, the player is involved in a costant tutorial and test of skill in order to survive. The way this game is concieved is to constantly move position at the same time the player shoots hordes of demons.
 
 
+In summary, this are the steps to follow for a proper creation of a videogame tutorial:
+
+![58e1467a10b1887602c9c5df49fb26cb](https://user-images.githubusercontent.com/66822380/222591362-03e1fde9-648f-437b-9bd8-a95d62f51889.png)
