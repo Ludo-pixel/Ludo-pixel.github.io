@@ -66,10 +66,14 @@ In summary, this are the steps to follow for a proper creation of a videogame tu
 
 ## Information and links!
 
-https://www.youtube.com/watch?v=besh0utQaAk&ab_channel=LaCavernadelGamer
-https://www.youtube.com/watch?v=eEGO4KAUuPg&ab_channel=ElultimoHyliano
-https://www.youtube.com/watch?v=FzM6piSc7kw&ab_channel=LaCavernadelGamer
-https://www.cultture.com/los-10-mejores-niveles-de-tutoriales-de-videojuegos
-https://www.3djuegos.com/pc/noticias/que-debe-tener-un-buen-tutorial-en-videojuegos-para-ser-util-y-no-resultar-molesto-201205-2163
+[10 Wonderful Videogame Tutorials](https://www.youtube.com/watch?v=besh0utQaAk&ab_channel=LaCavernadelGamer)
 
-Presentation Doc: https://docs.google.com/presentation/d/1ubbX6K8vMZIP24o-Y2oaROo7j5YQXfIstoB4eYDQofc/edit?usp=share_link
+[The Best Videogame Tutorials](https://www.youtube.com/watch?v=eEGO4KAUuPg&ab_channel=ElultimoHyliano)
+
+[10 Disastrous Videogame Tutorials](https://www.youtube.com/watch?v=FzM6piSc7kw&ab_channel=LaCavernadelGamer)
+
+[Top 10 Best Videogame Tutorial Levels](https://www.cultture.com/los-10-mejores-niveles-de-tutoriales-de-videojuegos)
+
+[What should a good video game tutorial have to be useful and not be annoying?](https://www.3djuegos.com/pc/noticias/que-debe-tener-un-buen-tutorial-en-videojuegos-para-ser-util-y-no-resultar-molesto-201205-2163)
+
+[Presentation Document](https://docs.google.com/presentation/d/1ubbX6K8vMZIP24o-Y2oaROo7j5YQXfIstoB4eYDQofc/edit?usp=share_link)
