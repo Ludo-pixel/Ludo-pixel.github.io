@@ -12,3 +12,11 @@ With this acknowledged, we can start to think about proper applications for vide
 
 **2. Do not overflow with information** - Make a proper use of the resources a developer has in order to grab the player's attention, this is also an important point because we, as devs, do not want to 'break the magic' and set the player out of the experience or even less, cause boredom.
 
+I leave here a set of examples about optimal good tutorials in videogames:
+
+##The Legend Of Zelda: Breath Of The Wild
+
+<a href="https://www.youtube.com/watch?v=Ou6UsEf1J_o&t=271s&ab_channel=EncryptedDuck" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+- Exaggeration of the old TLOZ turotials, where we used to start on a small village before being thrown to the bast world of Hyrule. This tutorial consists on retaining the player in a smaller portion of the map but at the same time containing the major number of game mechanics the game has to offer.
