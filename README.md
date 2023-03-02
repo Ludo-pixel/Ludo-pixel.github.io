@@ -44,3 +44,11 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 - Quick 20 second cinematic introduction followed by an iconic Hack'n'Slash level, just you smashing buttons and quickly learning all the basics about defeating hordes of enemies.
+
+
+## DOOM Eternal
+
+<a href="https://www.youtube.com/watch?v=3CWzCwCmHho&t=197s&ab_channel=BossFightDatabase"><img src="https://compass-ssl.xbox.com/assets/23/b6/23b6f32d-f359-43f3-a595-399cb019c603.jpg?n=DOOM-Eternal_GLP-Page-Hero-0_1083x609_02.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
+
+- Similar to Super Mario's way of teaching, in a more complex way, DOOM Eternal has a set of complex mechanics that have to be properly explained but apart from that, the player is involved in a costant tutorial and test of skill in order to survive. The way this game is concieved is to constantly move position at the same time the player shoots hordes of demons.
