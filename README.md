@@ -35,7 +35,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=K5yqXTh1IUw&t=1s&ab_channel=RetroGame.Stream"><img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros_image1600w.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
-- This game is close to perfection as far as teaching is concerned. It doesn't even have a former tutorial, Super Mario Bros has such an intuitive gameplay that it doesn't need to explain the player how to move Mario.
+- This game is close to perfection as far as teaching is concerned. It doesn't even have a former tutorial, Super Mario Bros has such an intuitive gameplay that it does not need to explain the player how to move Mario.
 
 
 ## Bayonetta
@@ -77,4 +77,3 @@ In summary, this are the steps to follow for a proper creation of a videogame tu
 [What should a good video game tutorial have to be useful and not be annoying?](https://www.3djuegos.com/pc/noticias/que-debe-tener-un-buen-tutorial-en-videojuegos-para-ser-util-y-no-resultar-molesto-201205-2163)
 
 [Presentation Document](https://docs.google.com/presentation/d/1ubbX6K8vMZIP24o-Y2oaROo7j5YQXfIstoB4eYDQofc/edit?usp=share_link)
-
